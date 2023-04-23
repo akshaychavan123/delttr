@@ -4,6 +4,9 @@ class PostSerializer < ActiveModel::Serializer
 end
 
 
+
 this is changes in another branch
 
-changes for two commit remove
+changes for two commit remo
+now i will add and remove this changes 
+
